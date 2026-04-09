@@ -480,7 +480,7 @@ ul { list-style: none; }
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  line-height: 1;
+  /* line-height: 1; */
 }
 .stat-suffix {
   font-family: var(--heading);
@@ -876,7 +876,7 @@ ul { list-style: none; }
   font-weight: 600;
   color: var(--text-muted);
   align-self: flex-start;
-  margin-top: 8px;
+  margin-top: 28px;
 }
 .amount {
   font-family: var(--heading);
@@ -886,7 +886,7 @@ ul { list-style: none; }
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  line-height: 1;
+  /* line-height: 1; */
 }
 
 .plan-desc {
