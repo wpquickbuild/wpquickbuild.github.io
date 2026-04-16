@@ -345,7 +345,7 @@ ul { list-style: none; }
 
 .hero-title {
   font-family: var(--heading);
-  font-size: clamp(2.8rem, 6.5vw, 5rem);
+  font-size: 50px;
   font-weight: 800;
   line-height: 1.15;
   color: var(--text);
